@@ -1,5 +1,5 @@
 # Utilizzo di Bootstrap
-## Classe Fullstack Dev
+## Screenshot di indexMia.html
 *Ottobre 2025*
 🧑‍💻
 
