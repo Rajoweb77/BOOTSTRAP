@@ -1,5 +1,5 @@
 # Utilizzo di Bootstrap
-## Screenshot di indexMia.html
+## Screenshot website
 *Ottobre 2025*
 
 
